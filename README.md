@@ -4,7 +4,8 @@ Read data into Jupyter notebook, use pandas to import data into a data frame pre
 Use EDA to visualize the dataset and gain more insight on your data
 
 
-Dataset column description:
+**Dataset column description:**
+
 Date : Date of observation
 
 btc_market_price : Average USD market price across major bitcoin exchanges.
