@@ -1,17 +1,10 @@
 **Project description:**
-Read data into Jupyter notebook, use pandas to import data into a data frame preprocess data: explore data, address missing data, categorical data, if there is any, and data scaling. Justify the type of scaling used in this project.
+Read data into Jupyter notebook, use pandas to import data into a data frame preprocess data: explore data, address missing data, handling duplicate, if there is any, and data outliers. 
 
-train your dataset using all the linear regression models you've learned so far. If your model has a scaling parameter(s) use Grid Search to find the best scaling parameter. Use plots and graphs to help you get a better glimpse of the results.
+Use EDA to visualize the dataset and gain more insight on your data
 
-Then use cross validation to find average training and testing score.
 
-Your submission should have at least the following regression models: KNN repressor, linear regression, Ridge, Lasso, polynomial regression, SVM both simple and with kernels.
-
-Finally find the best repressor for this dataset and train your model on the entire dataset using the best parameters and predict the market price for the test_set.
-
-submit IPython notebook. Use markdown to provide an inline report for this project.
-
-description:
+Dataset column description:
 Date : Date of observation
 
 btc_market_price : Average USD market price across major bitcoin exchanges.
